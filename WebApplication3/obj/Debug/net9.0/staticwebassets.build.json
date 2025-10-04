@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "Mt64hculHva6fTGMrKT0rum3FJVh1s/Flhw6QihnMcs=",
+  "Source": "WebApplication3",
+  "BasePath": "_content/WebApplication3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication3/wwwroot",
+      "Source": "WebApplication3",
+      "ContentRoot": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/",
+      "BasePath": "_content/WebApplication3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/61Qz8O41yfL._UY1000_.jpg",
+      "SourceId": "WebApplication3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/",
+      "BasePath": "_content/WebApplication3",
+      "RelativePath": "images/61Qz8O41yfL._UY1000_#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4v8uumhots",
+      "Integrity": "YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/61Qz8O41yfL._UY1000_.jpg"
+    },
+    {
+      "Identity": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/Add a 1heading.jpg",
+      "SourceId": "WebApplication3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/",
+      "BasePath": "_content/WebApplication3",
+      "RelativePath": "images/Add a 1heading#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f5if879gia",
+      "Integrity": "XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/Add a 1heading.jpg"
+    },
+    {
+      "Identity": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/pic1.jpeg",
+      "SourceId": "WebApplication3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/",
+      "BasePath": "_content/WebApplication3",
+      "RelativePath": "images/pic1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l8um0kcapc",
+      "Integrity": "a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/pic1.jpeg"
+    },
+    {
+      "Identity": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg",
+      "SourceId": "WebApplication3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/",
+      "BasePath": "_content/WebApplication3",
+      "RelativePath": "images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m.#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "12r1wkedd9",
+      "Integrity": "x7D4Dzp0eRi0LW+idXGIP8uqcrOq7rHIwoWrFLJeG0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/61Qz8O41yfL._UY1000_.4v8uumhots.jpg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/61Qz8O41yfL._UY1000_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 00:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8uumhots"
+        },
+        {
+          "Name": "label",
+          "Value": "images/61Qz8O41yfL._UY1000_.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8="
+        }
+      ]
+    },
+    {
+      "Route": "images/61Qz8O41yfL._UY1000_.jpg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/61Qz8O41yfL._UY1000_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 00:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Add a 1heading.f5if879gia.jpg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/Add a 1heading.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Sep 2025 12:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f5if879gia"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Add a 1heading.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Add a 1heading.jpg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/Add a 1heading.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Sep 2025 12:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY="
+        }
+      ]
+    },
+    {
+      "Route": "images/pic1.jpeg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/pic1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 00:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro="
+        }
+      ]
+    },
+    {
+      "Route": "images/pic1.l8um0kcapc.jpeg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/pic1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Sep 2025 00:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8um0kcapc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pic1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro="
+        }
+      ]
+    },
+    {
+      "Route": "images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..12r1wkedd9.jpeg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x7D4Dzp0eRi0LW+idXGIP8uqcrOq7rHIwoWrFLJeG0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 15:42:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12r1wkedd9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x7D4Dzp0eRi0LW+idXGIP8uqcrOq7rHIwoWrFLJeG0I="
+        }
+      ]
+    },
+    {
+      "Route": "images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg",
+      "AssetFile": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x7D4Dzp0eRi0LW+idXGIP8uqcrOq7rHIwoWrFLJeG0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 15:42:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x7D4Dzp0eRi0LW+idXGIP8uqcrOq7rHIwoWrFLJeG0I="
+        }
+      ]
+    }
+  ]
+}

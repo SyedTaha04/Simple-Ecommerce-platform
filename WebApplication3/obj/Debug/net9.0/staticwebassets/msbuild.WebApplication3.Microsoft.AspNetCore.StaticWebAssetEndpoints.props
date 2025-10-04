@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/61Qz8O41yfL._UY1000_.4v8uumhots.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\61Qz8O41yfL._UY1000_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4v8uumhots"},{"Name":"integrity","Value":"sha256-YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8="},{"Name":"label","Value":"_content/WebApplication3/images/61Qz8O41yfL._UY1000_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58394"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 28 Sep 2025 00:23:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/61Qz8O41yfL._UY1000_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\61Qz8O41yfL._UY1000_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"58394"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YI5joMdyMzULt8HvX8QXiaqW/4HCl/PNHyzDni/2yn8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 28 Sep 2025 00:23:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/Add a 1heading.f5if879gia.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Add a 1heading.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f5if879gia"},{"Name":"integrity","Value":"sha256-XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY="},{"Name":"label","Value":"_content/WebApplication3/images/Add a 1heading.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76968"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 25 Sep 2025 12:36:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/Add a 1heading.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Add a 1heading.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"76968"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XeJXDq/xWl2evPGg9whZVDTEzA3g5T1Od59zkpnrIOY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 25 Sep 2025 12:36:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/pic1.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pic1.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4351"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro=\u0022"},{"Name":"Last-Modified","Value":"Sun, 28 Sep 2025 00:17:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/pic1.l8um0kcapc.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pic1.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l8um0kcapc"},{"Name":"integrity","Value":"sha256-a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro="},{"Name":"label","Value":"_content/WebApplication3/images/pic1.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4351"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022a61u3BlHDYm3EwTr5uPut2lkGkZDjvBQcRR6w34JSro=\u0022"},{"Name":"Last-Modified","Value":"Sun, 28 Sep 2025 00:17:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/WhatsApp Image 2025-07-15 at 7.44.20 p.m..12r1wkedd9.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\WhatsApp Image 2025-07-15 at 7.44.20 p.m..jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"12r1wkedd9"},{"Name":"integrity","Value":"sha256-x7D4Dzp0eRi0LW\u002BidXGIP8uqcrOq7rHIwoWrFLJeG0I="},{"Name":"label","Value":"_content/WebApplication3/images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75808"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022x7D4Dzp0eRi0LW\u002BidXGIP8uqcrOq7rHIwoWrFLJeG0I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Sep 2025 15:42:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebApplication3/images/WhatsApp Image 2025-07-15 at 7.44.20 p.m..jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\WhatsApp Image 2025-07-15 at 7.44.20 p.m..jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x7D4Dzp0eRi0LW\u002BidXGIP8uqcrOq7rHIwoWrFLJeG0I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"75808"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022x7D4Dzp0eRi0LW\u002BidXGIP8uqcrOq7rHIwoWrFLJeG0I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Sep 2025 15:42:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

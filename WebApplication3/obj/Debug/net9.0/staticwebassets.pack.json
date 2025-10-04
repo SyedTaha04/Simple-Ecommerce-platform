@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/61Qz8O41yfL._UY1000_.jpg",
+      "PackagePath": "staticwebassets/images/61Qz8O41yfL._UY1000_.jpg"
+    },
+    {
+      "Id": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/Add a 1heading.jpg",
+      "PackagePath": "staticwebassets/images/Add a 1heading.jpg"
+    },
+    {
+      "Id": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg",
+      "PackagePath": "staticwebassets/images/WhatsApp Image 2025-07-15 at 7.44.20\u202Fp.m..jpeg"
+    },
+    {
+      "Id": "/Users/syedtaha/Desktop/projects .net/WebApplication2/WebApplication3/WebApplication3/wwwroot/images/pic1.jpeg",
+      "PackagePath": "staticwebassets/images/pic1.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.WebApplication3.props",
+      "PackagePath": "build\\WebApplication3.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication3.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication3.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.WebApplication3.props",
+      "PackagePath": "buildTransitive\\WebApplication3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
